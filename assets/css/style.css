@@ -827,6 +827,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
+  min-width: 280px;
   text-align: center;
   border: 1px solid #d5e1ed;
   padding: 80px 20px;
